@@ -1,18 +1,19 @@
 {
   "version": "1.0.0-beta",
-  "notes": "· 新增「检测更新」：启动后自动检查新版本，顶栏会提示\n· 设置页新增「版本与更新」卡片，可手动检测 + 应用内下载\n· 下载完成可一键重启安装（自动覆盖升级）\n· 新增蓝奏云备用下载渠道（国内更快）\n· 公告改成弹窗式（启动有未读时自动弹出）\n· 更新检测改用多源并发（GitHub API / ghfast / gh-proxy / jsDelivr）\n· 公告拉取也改成多源并发，速度从 2-3 秒降到 200ms 内\n· 安装包体积优化：102.8MB → 94.8MB（只保留中文语言包）\n· 修复 Windows 桌面版「页面能看但点不动」\n· 修复标题栏无法拖动窗口\n· 修复三角洲微信登录显示成 QQ\n· 修复三角洲微信头像不显示（改用原图）\n· 修复三角洲「数据获取失败: invalid params」\n· 三角洲首屏加载提速 8 倍\n· 修复砸礼物主播名/头像空白\n· 大航海名单重启后不再丢失\n· 盲盒记录重启后自动恢复\n· 盲盒统计新增「开出」总价值\n· 大航海/盲盒支持按日期筛选\n· CS2 实时战况从总览挪到 CS2 页面\n· AstrBot 新增监听转发功能",
-  "url": "https://github.com/GuiXiJiangSuki/xixi-toolbox-release/releases/latest",
-  "publishedAt": "2026-11-22T15:54:44.516Z",
+  "notes": "新版本发布",
+  "url": "https://github.com/GuiXiJiangSuki/xixi-toolbox-release/releases/download/v1.0.0-beta/XixiToolbox-1.0.0-beta-Setup.exe",
+  "publishedAt": "2026-11-22T15:58:40.723Z",
+  "size": 99444492,
   "downloads": [
     {
       "name": "蓝奏云",
-      "url": "https://guixijiang.lanzouv.com/iiqBv4h16c3e",
+      "url": "https://guixijiang.lanzouv.com/iDwxl4h16u1a",
       "pwd": "xixi",
       "hint": "国内直连，速度快"
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/GuiXiJiangSuki/xixi-toolbox-release/releases/latest",
+      "url": "https://github.com/GuiXiJiangSuki/xixi-toolbox-release/releases/download/v1.0.0-beta/XixiToolbox-1.0.0-beta-Setup.exe",
       "pwd": "",
       "hint": "需要海外网络或代理"
     }
