@@ -1,13 +1,19 @@
 {
   "version": "1.0.0-beta",
   "notes": "新版本发布",
-  "url": "https://github.com/GuiXiJiangSuki/xixi-toolbox-release/releases/latest",
-  "publishedAt": "2026-11-22T15:48:54.544Z",
-  "size": 107820534,
+  "url": "https://github.com/GuiXiJiangSuki/xixi-toolbox-release/releases/download/v1.0.0-beta/汐汐工具箱-1.0.0-beta-安装包.exe",
+  "publishedAt": "2026-11-22T15:52:25.666Z",
+  "size": 99444496,
   "downloads": [
     {
+      "name": "蓝奏云",
+      "url": "https://guixijiang.lanzouv.com/i44gD4h1617c",
+      "pwd": "",
+      "hint": "国内直连，速度快"
+    },
+    {
       "name": "GitHub",
-      "url": "https://github.com/GuiXiJiangSuki/xixi-toolbox-release/releases/latest",
+      "url": "https://github.com/GuiXiJiangSuki/xixi-toolbox-release/releases/download/v1.0.0-beta/汐汐工具箱-1.0.0-beta-安装包.exe",
       "pwd": "",
       "hint": "需要海外网络或代理"
     }
